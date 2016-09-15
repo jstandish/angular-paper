@@ -4,4 +4,4 @@ import { Component } from '@angular/core';
     selector: 'pr-input',
     templateUri: 'input.html'
 })
-export class InputComponent { }
+export class PaperInput { }
